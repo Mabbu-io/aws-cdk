@@ -11,7 +11,7 @@
 .DS_Store
 node_modules/
 lerna-debug.log
-dist/
+# dist/
 pack/
 .BUILD_COMPLETED
 .local-npm/
