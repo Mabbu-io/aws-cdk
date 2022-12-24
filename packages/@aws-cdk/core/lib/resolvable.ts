@@ -1,6 +1,6 @@
 import { IConstruct } from 'constructs';
 import { TokenString } from './private/encoding';
-import { TokenMap } from './private/token-map';
+import { TokenMap } from './token-map';
 import { TokenizedStringFragments } from './string-fragments';
 import { ResolutionTypeHint } from './type-hints';
 
